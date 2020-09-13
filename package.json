@@ -1,0 +1,22 @@
+{
+    "name": "cyberneonwave",
+    "displayName": "Cyberneonwave",
+    "publisher": "Symetrie",
+    "description": "A simple Cyberpunk and Vaporwave inspired color scheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cyberneonwave",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cyberneonwave-color-theme.json"
+            }
+        ]
+    }
+}
