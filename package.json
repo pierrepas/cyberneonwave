@@ -2,8 +2,9 @@
     "name": "cyberneonwave",
     "displayName": "Cyberneonwave",
     "publisher": "Symetrie",
+    "repository": "https://github.com/pierrepas/cyberneonwave.git",
     "description": "A simple Cyberpunk and Vaporwave inspired color scheme",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.49.0"
     },

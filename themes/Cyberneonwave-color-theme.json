@@ -1,12 +1,6 @@
 {
 	"tokenColors": [
 		{
-			"settings": {
-				"background": "#121212",
-				"foreground": "#08DEEA"
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -161,7 +155,6 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#EA00D9",
 				"fontStyle": "",
 				"foreground": "#F8F8F0"
 			}
@@ -170,7 +163,6 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#F887FF",
 				"foreground": "#F8F8F0"
 			}
 		}
@@ -179,8 +171,8 @@
 		"editor.background": "#121212",
 		"editorCursor.foreground": "#08DEEA",
 		"editor.foreground": "#08DEEA",
-		"editorWhitespace.foreground": "#666560",
-		"editor.lineHighlightBackground": "#666560",
+		"editorWhitespace.foreground": "#292929",
+		"editor.lineHighlightBackground": "#2e2e2e",
 		"editor.selectionBackground": "#242424"
 	},
 	"name": "Cyberneonwave"
